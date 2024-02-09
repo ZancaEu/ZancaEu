@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Gustavo Zanca.
-- 👀 I’m interested in learning more about programming and AI.
-- 🌱 I’m currently learning about programming and administration on Unifebe.
-- 💞️ I’m looking to collaborate on developing new and fresh tecnologies.
-- 📫 How to reach me? Via Whatsapp or E-mail.
-- ⚡ Fun fact: I like reptiles.
+- Oi, Meu nome é Gustavo!
+- Estou interessdo em aprender mais sobre programação e IA's, juntamente com outros assuntos.
+- Eu estou atualmente apredendo sobre programação e administração na Unifebe!
+- Estou procurando colobarar com outras pessoas na criação de novas tecnologias e aplicações na area de sistemas.
+- Você pode entrar em contato comigo no meu whatsapp particular, ou email.
+- Isso é tudo sobre mim por enquanto.
 
 <!---
 ZancaEu/ZancaEu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
