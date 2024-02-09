@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about programming and administration on Unifebe.
 - 💞️ I’m looking to collaborate on developing new and fresh tecnologies.
 - 📫 How to reach me? Via Whatsapp or E-mail.
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like reptiles.
 
 <!---
